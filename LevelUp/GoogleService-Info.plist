@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1076781439920-m4a59jclaafb3d9anepgmqf547qjibi1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1076781439920-m4a59jclaafb3d9anepgmqf547qjibi1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEEMv8e-bD_GdlDPXgJXmP9Dxt0uxHie0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1076781439920</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zeynepgoktepe.LevelUp</string>
+	<key>PROJECT_ID</key>
+	<string>level-up-training-8fd19</string>
+	<key>STORAGE_BUCKET</key>
+	<string>level-up-training-8fd19.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1076781439920:ios:4bcd4f3c132e5b08ee5475</string>
+</dict>
+</plist>
