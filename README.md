@@ -1,4 +1,4 @@
-# 🏀 Level Up — Basketball Training App
+# Level Up — Basketball Training App
 
 **Level Up** is a mobile iOS app designed to help basketball players improve their skills through structured drills, video guidance, and progress tracking. Built with Swift and Firebase, the app is tailored for players who want to train smarter — whether at home or on the court.
 
